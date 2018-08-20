@@ -1,5 +1,4 @@
 require 'pry'
-#require './lib/standard_deviation'
 
 class Card
   attr_reader :value,
