@@ -22,4 +22,3 @@ class GuessTest < Minitest::Test
     assert_equal "Correct!", guess.feedback
   end
 end
-# binding.pry

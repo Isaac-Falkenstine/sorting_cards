@@ -24,9 +24,9 @@ class Guess
 
   def feedback
     if guess == card.value + " of " + card.suit
-      puts "Correct!"
+      "Correct!"
     else
-      puts "Incorrect!"
+      "Incorrect!"
     end
   end
 end
