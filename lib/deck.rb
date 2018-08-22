@@ -22,3 +22,4 @@ class Deck
     c
   end
 end
+# binding.pry
